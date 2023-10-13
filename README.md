@@ -1,8 +1,11 @@
 # WarehouseApp
 
 
-                                                    #    **-- REQUIREMENTS --**
-                                                    # ** POJO CLASS **
+# **REQUIREMENTS**
+
+
+# **POJO CLASS**
+
 
 **ID:** String veya int olur, ancak int olması daha iyi; otomatik ataması
 gerek.
@@ -21,7 +24,8 @@ Bu kısımda OOP'den Encapsulation ve Polymorophism kullanılacak.
 Constructor, getter ve setter kullanılacak.
 
 
-                                                  # **Class (Methodlar)**
+
+# **Class (Methodlar)**
 
 **urunTanimlama** urunun ismi, ureticisi ve birimi girilecek. id alınacak.( Ürün burada depoya henüz giriş yapmadı.)
 
